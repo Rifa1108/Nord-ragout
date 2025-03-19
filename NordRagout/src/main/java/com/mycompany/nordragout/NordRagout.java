@@ -11,6 +11,6 @@ package com.mycompany.nordragout;
 public class NordRagout {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        
     }
 }
